@@ -1,6 +1,6 @@
-****Sales & Customer Metrics - Excel Project**
+**Sales & Customer Metrics - Excel Project**
 
-**Overview****
+**Overview**
 
 This Excel project focuses on sales and customer metrics analysis, helping businesses track performance and customer engagement trends.
 
@@ -22,4 +22,15 @@ Filename: Copy of Sales_&_Customer_Metrics_-_Share(1).xlsx
 
 Content: Sales and customer data, pivot tables, and graphical insights.
 
-<a href="https://github.com/simar755/Blinkit-Grocery-Analysis/blob/main/BlinkIT%20Grocery%20Raw%20Data.xlsx">Dataset</a>
+<a href="https://github.com/simar755/sales-and-customer-metrices-share/blob/main/Copy%20of%20Sales_%26_Customer_Metrics_-_Share(1).xlsx">Dataset</a>
+
+**Dashboard Interaction**
+<a href="https://github.com/simar755/sales-and-customer-metrices-share/blob/main/Screenshot%202025-02-10%20210305.png">View Dashboard</a>
+
+**Dashboard**
+![Picture.png)](https://github.com/simar755/sales-and-customer-metrices-share/blob/main/Screenshot%202025-02-10%20210305.png)
+
+**Conclusion**
+
+This Excel project provides an intuitive way to analyze sales and customer metrics, making it easier to track business performance. With dynamic visualizations and automated calculations, users can efficiently gain meaningful insights. Contributions are welcome to further enhance its functionality.
+
